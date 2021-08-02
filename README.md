@@ -21,6 +21,7 @@ Heart disease is one of the biggest challenge globally in the healthcare industr
 
 ### Installation
 Entire code is written in Python 3.9. If you don't have python installed on your system, click here https://www.python.org/downloads/ to install. To download all the packages used in the project, type the below command.
-pip install -r requirements.txt
+
+*pip install -r requirements.txt*
 
 ### Directory Tree
