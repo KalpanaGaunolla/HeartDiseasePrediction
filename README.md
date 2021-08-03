@@ -16,7 +16,7 @@
 In this repository, we will learn step by step guide to create **Heart disease prediction** using Machine Learning by using Logistic Regression Algorithm and deploy it on Heroku with Flask
 
 ### Motivation
-Heart disease is one of the biggest challenge globally in the healthcare industry. Cardiac arrest causes due to various factors such as obesity, high blood pressure, genetics, age, smoking, stress, family history etc. We can increase the survival rate of a person, through early detection, better treatement during the right time. Considering various factors with available data we will predict chance of heart attack with the help of Machine Learning Algorithm.
+Heart disease is one of the biggest challenge globally in the healthcare industry. Cardiac arrest causes due to various factors such as obesity, high blood pressure, genetics, age, smoking, stress, family history etc. We can increase the survival rate of a person, through early detection, better treatment during the right time. Considering various factors with available data we can predict chance of heart attack with the help of Machine Learning Algorithm.
 
 ### Installation
 Entire code is written in Python 3.9. If you don't have python installed on your system, click here https://www.python.org/downloads/ to install. To download all the packages used in the project, type the below command.
