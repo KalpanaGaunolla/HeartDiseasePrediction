@@ -6,7 +6,6 @@
 * Motivation
 * Installation
 * Technologies used
-* Credits
 
 ### Demo
 ![Heart_disease_demo_1 (2)](https://user-images.githubusercontent.com/81810275/127878954-c1c9c582-24c8-4054-bcda-873c5de3f467.png)
